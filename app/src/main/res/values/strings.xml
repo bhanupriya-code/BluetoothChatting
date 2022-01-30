@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sending_button">Send</string>
+    <string name="searching_devices">Search Devices</string>
+    <string name="bluetooth_on">Switch On</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="available_devices">Available Devices</string>
+    <string name="scan_devices">Scan Devices</string>
+    <item name="ed_enter_message" type="id" />
+    <item name="btn_send_msg" type="id" />
+    <item name="list_conversation" type="id" />
+</resources>
